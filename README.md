@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YASH NANDKULIYAR</h1>
 <h3 align="center">Exploring python and its frameworks and advanced cybersecurtiy!!</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Yash-Nandkuliyar/Yash-Nandkuliyar/assets/102182985/29e36476-8397-4e2f-be2d-170c4586f5cf">
+<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/102182985/261095051-29e36476-8397-4e2f-be2d-170c4586f5cf.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDg0NDY1NDgsIm5iZiI6MTcwODQ0NjI0OCwicGF0aCI6Ii8xMDIxODI5ODUvMjYxMDk1MDUxLTI5ZTM2NDc2LTgzOTctNGUyZi1iZTJkLTE3MGM0NTg2ZjVjZi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyMFQxNjI0MDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMDVkNzBlODNkNGViNjQ1MWJhMzVhMjc5NTg0NGI5ZDAwODI4MjcyMWYwM2M0M2Q0ZTIyYjAyZjQ4ZDY0NzUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.u499O1xesc7RodVgewlfzNLC2zf4VyFYVQUDF25wQZQ">
 
 ![profile views](https://komarev.com/ghpvc/?username=Yash-Nandkuliyar&style=flat-square)
 
