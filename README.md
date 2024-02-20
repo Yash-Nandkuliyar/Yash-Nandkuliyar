@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm YASH NANDKULIYAR</h1>
-<h3 align="center">Exploring AI with TensorFlow and Python!!</h3>
+<h3 align="center">Exploring python and its frameworks and advanced cybersecurtiy!!</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Yash-Nandkuliyar/Yash-Nandkuliyar/assets/102182985/29e36476-8397-4e2f-be2d-170c4586f5cf">
 
 ![profile views](https://komarev.com/ghpvc/?username=Yash-Nandkuliyar&style=flat-square)
 
-<p align="left"> <a href="https://twitter.com/apurva_313" target="blank"><img src="https://img.shields.io/twitter/follow/apurva_313?logo=twitter&style=for-the-badge" alt="apurva_313" /></a> </p>
+- 🔭 I’m currently working on **DATA SCIENCE AND CYBERSECURITY Projects**
 
-- 🔭 I’m currently working on **AI-ML Project**
+- 🌱 I’m currently learning **DSA,Advanced Cybersecurity**
 
-- 🌱 I’m currently learning **DSA,MySQL**
-
-- 💬 Ask me about **#DSA, #Python, #cloudcomputing, and #development**
+- 💬 Ask me about **#DSA, #Python, #cloudcomputing, and #cybersecurtiy**
 
 - 📫 How to reach me **nandkuliyar1@gmail.com**
 
@@ -23,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,cpp,c,python,flask,websockets,loggers,requests,error handling,advanced_cybersecurity,gcp,aws,github, tensorflow,vscode,bootstrap,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,cpp,c,python,flask,websockets,loggers,requests,error handling,advanced_cybersecurity,gcp,github, tensorflow,vscode,bootstrap,&perline=6" />
   </a>
 </p>
 
