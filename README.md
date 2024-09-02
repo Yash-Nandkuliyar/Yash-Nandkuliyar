@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm YASH NANDKULIYAR</h1>
 <h3 align="center">Exploring python and its frameworks and advanced cybersecurtiy!!</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/Yash-Nandkuliyar/Yash-Nandkuliyar/assets/102182985/29e36476-8397-4e2f-be2d-170c4586f5cf">
-
 
 # 💫 About Me:
 🔭 I’m currently working on DATA SCIENCE AND CYBERSECURITY Projects<br><br>🌱 I’m currently learning DSA,Advanced Cybersecurity<br><br>💬 Ask me about #DSA, #Python, #cloudcomputing, and #cybersecurity<br><br>📫 How to reach me nandkuliyar1@gmail.com
