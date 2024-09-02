@@ -1,4 +1,3 @@
-@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm YASH NANDKULIYAR</h1>
 <h3 align="center">Exploring python and its frameworks and advanced cybersecurtiy!!</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Yash-Nandkuliyar/Yash-Nandkuliyar/assets/102182985/29e36476-8397-4e2f-be2d-170c4586f5cf">
